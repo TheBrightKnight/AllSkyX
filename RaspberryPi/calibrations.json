@@ -1,0 +1,8 @@
+{
+  "sht31a_temp" : -0.2,
+  "sht31a_humidity" : -6,
+  "sht31b_temp" : -0.65,
+  "sht31b_humidity" : 0.4,
+  "ds18b20_temp" : -0.6,
+  "bmp_pressure" : 68
+}
